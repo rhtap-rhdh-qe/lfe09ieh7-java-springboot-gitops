@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lfe09ieh7-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/lfe09ieh7-java-springboot-gitops
